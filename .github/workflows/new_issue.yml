@@ -1,4 +1,4 @@
-name: Process new issue
+name: Process new omarAs
 
 on:
   workflow_dispatch :
